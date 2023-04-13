@@ -4,3 +4,7 @@
 
 # ignore vendor directory
 vendor/
+tmp/
+
+# ignore composer.lock
+composer.lock

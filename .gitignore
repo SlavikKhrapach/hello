@@ -1,0 +1,6 @@
+#.gitignore contains files and
+# folders thatshould be excluded
+# from version control
+
+# ignore vendor directory
+vendor/
